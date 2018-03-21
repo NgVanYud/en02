@@ -45,7 +45,7 @@ Design Patterns giảm bớt sự phức tạp, và giúp các giải pháp tr�
 
 Design Patterns là các giải pháp đã được kiểm tra và thử nghiệm, nhà phát triển không cần phải bắt đầu từ đầu, và có thể chạy như giải pháp tái sử dụng điều đó đã được chứng minh là có hiệu quả (miễn là Mẫu Thiết kế được sử dụng giải quyết một vấn đề tương tự). Sẽ là sai khi mong đợi một cây cầu để giải quyết vấn đề băng qua đại dương, nơi một cây cầu chỉ đơn giản là không phù hợp.
 
-Những lợi ích khi sử dụng các Design PatternDesign Patterns therefore provide the following benefits.
+Những lợi ích khi sử dụng các Design Pattern.
 
 Cung cấp cho các nhà phát triển một loạt các giải pháp đã được kiểm tra và thử nghiệm để làm việc với chúng.
 Chúng là ngôn ngữ trung lập ( trung gian ) và vì thế có thể áp dụng vào bất cứ ngôn ngữ nào có hỗ trợ hướng đối tượng.
